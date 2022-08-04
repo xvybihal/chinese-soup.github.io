@@ -1,1 +1,2 @@
 # chinese-soup.github.io
+![AHOJ](https://raw.githubusercontent.com/syyyr/AhojAsAService/master/static/images/animated_favicon.gif) AHOJ Kubi, kamarade! ![AHOJ](https://raw.githubusercontent.com/syyyr/AhojAsAService/master/static/images/animated_favicon.gif)
